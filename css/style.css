@@ -369,6 +369,10 @@ body {
     }
 
     /* Текстовые блоки */
+    .news {
+        width: 100%;
+    }
+    
     .text-block {
         grid-template-columns: 1fr;
         padding: 0 15px;
