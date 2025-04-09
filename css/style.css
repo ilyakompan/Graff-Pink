@@ -377,7 +377,7 @@ body {
     .image-main {
         grid-row: auto;
         grid-column: auto;
-        width: 100%;
+        width: auto;
         margin-bottom: 15px;
     }
 
